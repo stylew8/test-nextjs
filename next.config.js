@@ -3,6 +3,7 @@ const nextConfig = {
   output: 'export',
   basePath: '/test-nextjs',
   assetPrefix: '/test-nextjs/',
+  
   eslint: {
     ignoreDuringBuilds: true,
   },
